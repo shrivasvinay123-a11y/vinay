@@ -101,7 +101,7 @@ while running:
     clock.tick(50 )
     time += 1
 
-pygame.quit()
+pygame.draw.rect(screen, (34, 139, 34), (0, flag_y+pole_h-20, WIDTH, 100))
 pygame.draw.rect(screen, (34, 139, 34), (0, flag_y+pole_h-20, WIDTH, 100))
 
     pygame.display.flip()
