@@ -105,5 +105,5 @@ pygame.quit()
 pygame.draw.rect(screen, (34, 139, 34), (0, flag_y+pole_h-20, WIDTH, 100))
 
 draw_real_flag(time)
-git commit -m "mycode"
-git marge branch1
+
+
