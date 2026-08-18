@@ -103,3 +103,4 @@ while running:
 
 pygame.quit()
 sys.exit() 
+pygame.draw.circle(screen, (80,50,20), (pole_x+7, flag_y+pole_h), 10) # base
